@@ -1,0 +1,17 @@
+Project 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+A Theater has finite number of screens and each screen has 3 row and 1st row  for 1st class and rest (ie) other two rows to 2nd class.
+The system has to build to book and cancel and manage Theater.
+
+Rules
+1 . if a particular number of people booked ticket for 2nd class and if a row has available to all of them to sit together then that row should be occupied.
+they should not occupy different rows.
+2 . Ticket cost for a person for 1st class is 110 bucks.
+3 . Ticket cost for a person for 2nd class is 100 bucks.
+4 . For each booking the ticket cost should be counted.
+5 . For each of the Booking the unique booking ID has to create.
+6 . Cancellation process should be done by using booking ID.
+7 . For each cancellation only 90% has to be refunded from the total amount for that particular booking id.
+8 . Booking and cancellation history has to be created.
+9 . The system should accept Discount ID 
+(ex:  D10 - 10% discount, D20 - 20%discount, D30 - 30% discount, N - No Discount)
